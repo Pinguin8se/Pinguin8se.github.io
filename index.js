@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Siempre supe que aceptarias🥵🍆');
+    alert('🌹A huevo ya tengo con quien pasar navidad🌹C:');
 });
 
 const noBtn = document.querySelector('#noBtn');
