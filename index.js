@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('🌹A huevo ya tengo con quien pasar navidad🌹C:');
+    alert('🌹Manda fototeta entonces solo pa mi al privado del twich o discord 🌹C:');
 });
 
 const noBtn = document.querySelector('#noBtn');
