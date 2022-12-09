@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('💗Si sabia que me amabas, no hacia falta que me lo demuestres💗');
+    alert('💗Si sabia que me amabas, no hacia falta que me lo demuestres.💗');
 });
 
 const noBtn = document.querySelector('#noBtn');
