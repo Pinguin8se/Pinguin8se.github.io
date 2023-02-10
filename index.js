@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Ya lo sabia, siga viendo sus mmdas en yotube.');
+    alert('Ya lo sabia, siga viendo sus mmdas en yotube .');
 });
 
 const noBtn = document.querySelector('#noBtn');
