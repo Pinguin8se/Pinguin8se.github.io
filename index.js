@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Ya lo sabia, siga streameando furro kbro uwu .');
+    alert('Ya lo sabia, putita de mrd, decepcionas al Ecuador diego de mrd .');
 });
 
 const noBtn = document.querySelector('#noBtn');
