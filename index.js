@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Ya lo sabia, putita de mrd, decepcionas a tu pais chainles de mrd.');
+    alert('Ya lo sabia, muy mal mija, que decepcion');
 });
 
 const noBtn = document.querySelector('#noBtn');
