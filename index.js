@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('cacorra');
+    alert('Mas te vale o sino te dejo verde el culo');
 });
 
 const noBtn = document.querySelector('#noBtn');
@@ -13,4 +13,5 @@ noBtn.addEventListener('mouseover', function () {
     noBtn.style.setProperty('left',randomX+'%');
     noBtn.style.setProperty('transform',`translate(-${randomX}%,-${randomY}%)`);
 })
+
 
