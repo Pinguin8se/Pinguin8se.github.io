@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Mas te vale o sino te dejo verde el culo');
+    alert('Listo, ahora somos marido y mujer futuramente🌹❤️');
 });
 
 const noBtn = document.querySelector('#noBtn');
